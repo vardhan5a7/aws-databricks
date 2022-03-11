@@ -1,7 +1,7 @@
 // Databricks notebook source
 //connect to the S3 bucket
-val AccessKey = "AKIA22UAFDPYYDZBIXBL"
-val SecretKey = "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"
+val AccessKey = "XXXXXXXXXXXXXXXXXXXXXX"
+val SecretKey = "XXXXXXXXXXXXXXXXXXXXXX"
 
 val encoded_secret_key = SecretKey.replace("/", "%2F")
 val AwsBucketName = "databrickprac"
